@@ -7,15 +7,15 @@ bigimg: /img/desk.jpg
 <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
 <meta name="theme-color" content="#ffd6008c" />            
 
-<h2 style="text-align:center;">Software Engineer</h2>
+<h2 style="text-align:center;">Software Engineer <br>&<br> Coding Instructor / Mentor </h2>
 <p style="text-align:center;"><a href="https://linkedin.com/in/mohelmym" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
 
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and am yeah Foodie.<br> 
-Currently Working @Swenson He </p> 
+Currently Working <a href="https://www.techsoup.global/">@TechSoup</a></p>
 
 
 {: .box-warning}
-• Mobile: (+2) 0100 5759 130<br/>
+• Mobile: (+2) 0110 294 2926<br/>
 • Skype ID: mohamed.helmys<br/>
 • Email:**<a href="mailto: mohamed.halmey@gmail.com"> mohamed.halmey@gmail.com</a>**<br/>
 • Check my **<a href="https://mohelmys.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV <i class="fa fa-spinner fa-pulse fa-1x fa-fw" aria-hidden="true"></i></a>**<br/>
@@ -55,7 +55,7 @@ Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platfor
 Git & GitHub & Bitbucket, Trello & Jira.
 
 **Methodologies:**<br/>
-Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7/8/9/10.
+Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7/8/9/10/11 & Drupal CMS.
 
 ### 🎓 EDUCATION AND CREDENTIALS
 -  **Master of Science Degree in Computer Science** *2022 - Present*<br/>
