@@ -26,14 +26,14 @@ Talented Software Engineer/Web Developer with self-motivated attitude,
 I possess a robust grounding in Software Engineering/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **📚 On Stack:**<br>
-- Experience Site Builder and a developer working in Drupal (7/8/9/10)<br>
+- Experience Site Builder and a developer working in Drupal from 7 till 11. <br>
 - Database administration and management of a hosting environment<br>
 - Domain (DNS) Management<br>
 - Composer/CLI, Drush, Version Control with GitLab, GitHub, Bitbucket.<br>
 - Understanding of agile/scrum process (experience in working with JIRA)<br>
 - Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
 - Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
-- New year resolution 2024 working on Container Orchestration <span style="background-color: #3371e3;color:White;font-weight:bold;"> K8s: Kubernetes </span> with Coursera Track (Architecting with Google <a href="https://kubernetes.io/"> Kubernetes </a> Engine Specialization) <br>
+- New year resolution 2024 working on Container Orchestration K8s: Kubernetes </span> with Coursera Track (Architecting with Google <a href="https://kubernetes.io/"> Kubernetes </a> Engine Specialization) <br>
 
 **Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
 
@@ -48,7 +48,7 @@ For more info contact me here: [github.io/contact](https://mohelmys.github.io/co
 
 **⚙️ Core Technologies :** <br/> 
 **Environments:**<br/>
-Php, Java, C, C++, Python, JavaScript, HTML5/CSS3, SASS - UML- SQL Data Modeller Oracle & Microsoft.
+Php, Python, C, C++, Java, JavaScript, HTML5/CSS3, SASS - UML- SQL Data Modeller Oracle & Microsoft.
 
 **Tools:**<br/>
 Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools.
@@ -73,6 +73,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   Alexandria, Egypt<br/>
 
 **📃 Certifications**
+* AWS AI Practitioner Challenge **(AWS AI & ML Scholars 2026)**
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
 * Udacity & Google Scholarship - Front-End Web Developer with JavaScript,Html/CSS
 * PMI Project Management Professional (PMP)
