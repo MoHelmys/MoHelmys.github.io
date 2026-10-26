@@ -33,7 +33,7 @@ I possess a robust grounding in Software Engineering/Web Development experience 
 - Understanding of agile/scrum process (experience in working with JIRA)<br>
 - Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
 - Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
-- New year resolution 2024 working on Container Orchestration K8s: Kubernetes </span> with Coursera Track (Architecting with Google <a href="https://kubernetes.io/"> Kubernetes </a> Engine Specialization) <br>
+
 
 **Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
 
@@ -116,7 +116,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:8%;" alt="FitnessGarage"></a><br><br>  
 
-<center><h5><span style="background-color: #FFFF00">Latest Projects (2024)</span></h5></center>
+<center><h5><span style="background-color: #FFFF00">Latest Projects</span></h5></center>
 
 <a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-logo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
 <a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
