@@ -11,7 +11,7 @@ bigimg: /img/desk.jpg
 <p style="text-align:center;"><a href="https://linkedin.com/in/mohelmym" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
 
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and am yeah Foodie.<br> 
-Currently Working <a href="https://www.techsoup.global/">@TechSoup</a></p>
+Currently Working <a href="https://www.techsoup.global/" target="_blank"> @TechSoup</a></p>
 
 
 {: .box-warning}
